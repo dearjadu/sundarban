@@ -7,3 +7,5 @@ Adding a new feature called "some-feature"
 
 Adding a new feature called "some-other-feature"
 Adding a feature in main
+
+Testing for Travis CI
