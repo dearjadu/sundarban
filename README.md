@@ -5,4 +5,5 @@ The application provies REST APIs to get the information about tigers based on t
 
 Adding a new feature called "some-feature"
 
+Adding a new feature called "some-other-feature"
 Adding a feature in main
